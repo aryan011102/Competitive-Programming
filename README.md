@@ -1,13 +1,6 @@
-# Competitive-Programming
-All the codes that I have done in all competitions and training websites.
+# UVA Online Judge
 
-That includes:
-Google CodeJam
-Google Kickstart
-Codechef
-USACO
-UVA Online Judge
-TopCoder
-LeetCode
-Sphere Online Judge
+Includes solutions for Competitive Programming 3. Steven and Felix.
+
+
 
